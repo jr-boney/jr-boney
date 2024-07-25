@@ -1,5 +1,5 @@
-### Hi there 👋<h2> I'm Aswin</h2>
 
+ <h1 > <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi I'm Aswin</h1> 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
