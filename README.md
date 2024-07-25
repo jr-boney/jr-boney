@@ -93,7 +93,8 @@
 
 
 
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=448EE4&height=80&section=footer" width="100%" />
 
-<hr>
+
 
 
