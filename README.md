@@ -44,7 +44,15 @@
 
 <br/><br/>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jr-boney&layout=compact) 
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jr-boney&layout=compact)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jr-boney&layout=donut-vertical)](https://github.com/jr-boney/github-readme-stats) 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jr-boney&show_icons=true&locale=en&layout=compact" alt="jr-boney" />
+  
+  -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jr-boney&show_icons=true&locale=en&layout=compact" alt="jr-boney" />
+
 
 <br/>
 
