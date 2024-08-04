@@ -20,7 +20,7 @@
 
 
 
-- 💻 &nbsp; HTML | CSS | JavaScript | NodeJS | ReactJS | ExpressJs
+- 💻 &nbsp; JavaScript | NodeJS | ReactJS | ExpressJs | MongoDB | Mongoose | HTML | CSS
 
 <!--
 
@@ -36,7 +36,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; NextJS | Firebase | MongoDB | Mongoose | MySQL
+- 🔧 &nbsp; NextJS | Docker | microservices | TypeScript | MySQL
 
 <hr>
 
