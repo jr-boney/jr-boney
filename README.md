@@ -20,8 +20,7 @@
 
 
 
-- 💻 &nbsp; JavaScript | NodeJS | ReactJS | ExpressJs | MongoDB | Mongoose | HTML | CSS
-
+- 💻 &nbsp; JavaScript | NodeJS | ReactJS | ExpressJs | MongoDB | Mongoose
 <!--
 
 - 🛢 &nbsp; MySQL | MongoDB
