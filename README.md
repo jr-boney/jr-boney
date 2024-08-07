@@ -21,6 +21,7 @@
 
 
 - 💻 &nbsp; JavaScript | NodeJS | ReactJS | ExpressJs | MongoDB | Mongoose
+-  🖥 &nbsp; Heroku | Figma | Vercel | Netlify | Tailwind 
 <!--
 
 - 🛢 &nbsp; MySQL | MongoDB
