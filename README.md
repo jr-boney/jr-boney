@@ -20,8 +20,8 @@
 
 
 
-- 💻 &nbsp; JavaScript | NodeJS | ReactJS | ExpressJs | MongoDB | Mongoose
--  🖥 &nbsp; Heroku | Figma | Vercel | Netlify | Tailwind 
+- 💻 &nbsp; JavaScript | TypeScript | NodeJS | ReactJS | ExpressJs | MongoDB | Mongoose | PostgreSQL
+-  🖥 &nbsp; Figma | Vercel | Netlify | Tailwind 
 <!--
 
 - 🛢 &nbsp; MySQL | MongoDB
@@ -36,7 +36,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; NextJS | Docker | microservices | TypeScript | MySQL
+- 🔧 &nbsp; NextJS | Docker | microservices | MySQL
 
 <hr>
 
