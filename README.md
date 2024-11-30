@@ -76,13 +76,12 @@
 
 
 
-<br>
+
 
 
 
 <h3 align="center"> 🤝🏻 Connect with Me </h3>
-<hr style="width: 30%; border: 1px solid gray; margin: 10px auto;">
-
+<hr style= border: 0.5px solid gray; margin: 10px auto;">
 
 
 
