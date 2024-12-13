@@ -2,14 +2,14 @@
  <h1 align="center" > <img  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi I'm Aswin</h1> 
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">-->
 
-<h3 align="center"> 💻 About Me </h3>
+<!-- <h3 align="center"> 💻 About Me </h3>
 
 <p align="center" style="font-size: 18px; font-style: italic;">
   Just here trying to write code that (occasionally) works. <br>  
   Always learning new tech, breaking stuff in the process, and Googling my way out of trouble. 🤷‍♂️
 </p>
 
-<hr>
+<hr>  -->
 
 <!-- - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
@@ -81,7 +81,6 @@
 
 
 <h3 align="center"> 🤝🏻 Connect with Me </h3>
-<hr style= border: 0.5px solid gray; margin: 10px auto;">
 
 
 
